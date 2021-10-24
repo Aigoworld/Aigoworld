@@ -1,6 +1,6 @@
 {"image":"https://raw.githubusercontent.com/Aigoworld/Aigoworld/main/gif/1.gif",
 "name":"Aigogame #1",
-"description":"just  Max sprite/object test and music system streetest",
+"description":"just  Max spriteobject test and music system streetest",
 "external_url":"https://www.aigoworld.art/",
 "animation_url":"https://streetest.dbl1acxchptrq.amplifyapp.com/",
 "attributes":[{"trait_type":"control","value":"click"},
@@ -11,5 +11,4 @@
 {"trait_type":"twisting","value":0},
 {"trait_type":"width","value":full},
 {"trait_type":"height","value":full},
-{"trait_type":"Completion Progress","value":"80%"},
 {"trait_type":"Frame","value":"littlejs"}]}
