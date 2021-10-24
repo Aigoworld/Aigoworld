@@ -1,7 +1,7 @@
 {"image":"https://raw.githubusercontent.com/Aigoworld/Aigoworld/main/png/5.png",
-"name":"Aigoart #13",
-"description":"test",
-"external_url":"https://js13kgames.com/games/blanks-detective/index.html",
+"name":"Aigoart #13 ",
+"description":"test external",
+"external_url":"https://www.aigoworld.art/",
 "animation_url":"https://js13kgames.com/games/blanks-detective/index.html",
 "attributes":[{"trait_type":"theme","value":"Axiom"},
 {"trait_type":"greyscale","value":"false"},
@@ -12,4 +12,6 @@
 {"trait_type":"width","value":7},
 {"trait_type":"height","value":7},
 {"trait_type":"Artist","value":"MINITING"},
+{"trait_type":"habit","value":"10%"},
+{"trait_type":"birthday","value":"2021-10-25"},
 {"trait_type":"Name","value":"Caesium Standard"}]}
